@@ -57,7 +57,6 @@ Customers usually do not decide to switch to another competitor instantly, but r
      RandomForestClassifier(max_depth=20, max_features=11, min_samples_leaf=20,
                        n_jobs=-1, 'n_estimators': 100, random_state=42)
      Best score:0.897284302897916
-     
    **5. Gradient Boosting: The average validation accuracy across our 5 folds is 0.9401249213957866**
   
 
