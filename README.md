@@ -40,16 +40,21 @@ Customers usually do not decide to switch to another competitor instantly, but r
 **Model Evaluation:** 
 1. Logistic Regression:
     a) Accuracy Score :  92.72
+    
     b) ROC AUC score :  59.07
+    
     c) Precision score :  30.88
+    
     d) Recall score :  21.03
     
  2. Random Forest:
     a) Accuracy Score :  94.23
+    
     b) ROC AUC score :  50.1
      
  3. Cross Validation: 
     a) Cross val score for Logistic regression= 0.6814756976043074
+    
     b) Cross val score for Random Forest Classifier= 0.9466645964322385
     
   4. Hyperparameter tuning for RANDOMFOREST CLASSIFIER:
@@ -57,6 +62,7 @@ Customers usually do not decide to switch to another competitor instantly, but r
      RandomForestClassifier(max_depth=20, max_features=11, min_samples_leaf=20,
                        n_jobs=-1, 'n_estimators': 100, random_state=42)
      Best score:0.897284302897916
+     
    **5. Gradient Boosting: The average validation accuracy across our 5 folds is 0.9401249213957866**
   
 
