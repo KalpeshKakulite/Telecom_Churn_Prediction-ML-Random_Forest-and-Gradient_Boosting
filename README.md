@@ -13,6 +13,7 @@ Customers usually do not decide to switch to another competitor instantly, but r
 3. The ‘churn’ phase: In this phase, the customer is said to have churned. In this case, since you are working over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month (September) is the ‘churn’ phase.
 
 **Steps Involved:**
+
 1.Importing Libraries
 2.Loading and Analysing the DATA
 3. Data Cleaning & Manipulation
