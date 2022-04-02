@@ -38,7 +38,6 @@ Customers usually do not decide to switch to another competitor instantly, but r
 7. GradientBoostingClassifier 
  
 **Model Evaluation: **
-
 1. Logistic Regression:
     a) Accuracy Score :  92.72
     b) ROC AUC score :  59.07
@@ -59,6 +58,6 @@ Customers usually do not decide to switch to another competitor instantly, but r
                        n_jobs=-1, 'n_estimators': 100, random_state=42)
      Best score:0.897284302897916
      
-    **5. Gradient Boosting: The average validation accuracy across our 5 folds is 0.9401249213957866**
+  **5. Gradient Boosting: The average validation accuracy across our 5 folds is 0.9401249213957866**
   
 
