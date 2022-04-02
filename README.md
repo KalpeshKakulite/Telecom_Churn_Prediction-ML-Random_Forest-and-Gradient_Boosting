@@ -39,7 +39,7 @@ Customers usually do not decide to switch to another competitor instantly, but r
 7. GradientBoostingClassifier 
  
 **Model Evaluation:** 
-1. **Logistic Regression**:
+1. **Logistic Regression:**
 
     a) Accuracy Score :  92.72
     
