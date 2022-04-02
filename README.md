@@ -71,4 +71,6 @@ Customers usually do not decide to switch to another competitor instantly, but r
    **5. Gradient Boosting: The average validation accuracy across our 5 folds is 0.9401249213957866**
   
 
+Kaggle competition Link: https://www.kaggle.com/competitions/ml-lab-i-c33
+
 **Credit:** Akshay Sehgal (www.akshaysehgal.com)
